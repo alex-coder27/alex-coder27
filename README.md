@@ -18,6 +18,6 @@
 <div> 
   <a href = "mailto:alex.ventura267@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/alex-coder27/alex-coder27/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/alex-coder27/alex-coder27/output/github-contribution-grid-snake-dark.svg)
 
 </div>
