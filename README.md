@@ -18,7 +18,7 @@
 <div> 
   <a href = "mailto:alex.ventura267@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  **<br>**  
-  **![Snake animation](https://raw.githubusercontent.com/alex-coder27/alex-coder27/output/github-contribution-grid-snake.svg)**
-
+  <br>
+  
+  ![Snake animation](https://raw.githubusercontent.com/alex-coder27/alex-coder27/output/github-contribution-grid-snake.svg)
 </div>
